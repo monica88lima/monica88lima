@@ -10,6 +10,7 @@ Banco de Dados: Sou habilidosa em bancos de dados relacionais, como MySQL e SqlS
 Arquitetura de Software: Conheço os princípios da arquitetura de software, como o design orientado a microservices e a arquitetura em camadas.
 
 DevOps: Utilizo ferramentas de integração contínua (CI) e entrega contínua (CD), como Jenkins e Docker.
+##
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=monica88lima&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 <hr>
 
