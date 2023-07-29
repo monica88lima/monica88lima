@@ -1,4 +1,6 @@
-<img src="https://img.shields.io/static/v1?label=Overview&message=MonicaLima&color=f8efd4&style=for-the-badge&logo=GitHub">
+ <a href="https://github.com/monica88lima?tab=repositories">
+    <img src="https://img.shields.io/static/v1?label=Overview&message=MonicaLima&color=f8efd4&style=for-the-badge&logo=GitHub">
+  </a>
 
 ### 🤎 Olá, meu nome é <strong>Mônica!</strong>
 Sou uma entusiasta de tecnologia e inovação, apaixonada por Gestão de Pessoas e determinada a me solidificar no mundo do desenvolvimento Full Stack.
