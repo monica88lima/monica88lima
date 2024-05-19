@@ -3,9 +3,9 @@
   </a>
 
 ### 🤎 Olá, meu nome é <strong>Mônica!</strong>
-Sou uma entusiasta de tecnologia e inovação, apaixonada por Gestão de Pessoas e determinada a me solidificar no mundo do desenvolvimento Full Stack.
+Sou uma entusiasta de tecnologia e inovação, determinada a solidificar o conhecimento no mundo do desenvolvimento.
 
-Linguagens de Programação: Tenho focado em aprimorar meus conhecimentos em C#, JavaScript, Css, Html e Angular.
+Linguagens de Programação: busco aprimorar meus conhecimentos em C#, JavaScript, Css, Html, React e Angular.
 
 Banco de Dados: Sou habilidosa em bancos de dados relacionais, como MySQL e SqlServer, e também tenho noções básicas de bancos de dados NoSQL, como MongoDB.
 
