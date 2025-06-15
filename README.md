@@ -1,39 +1,44 @@
- <a href="https://github.com/monica88lima?tab=repositories">
-    <img src="https://img.shields.io/static/v1?label=Overview&message=MonicaLima&color=f8efd4&style=for-the-badge&logo=GitHub">
-  </a>
+<a href="https://github.com/monica88lima?tab=repositories">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=MonicaLima&color=f8efd4&style=for-the-badge&logo=GitHub">
+</a>
 
 ### 🤎 Olá, meu nome é <strong>Mônica!</strong>
-Sou uma entusiasta de tecnologia e inovação, determinada a solidificar o conhecimento no mundo do desenvolvimento.
 
-Linguagens de Programação: busco aprimorar meus conhecimentos em C#, JavaScript, Css, Html, React e Angular.
+Sou uma entusiasta de tecnologia determinada a transformar ideias em soluções inteligentes. Busco constantemente o crescimento como desenvolvedora, explorando novas tecnologias e boas práticas de desenvolvimento.
 
-Banco de Dados: Sou habilidosa em bancos de dados relacionais, como MySQL e SqlServer, e também tenho noções básicas de bancos de dados NoSQL, como MongoDB.
+---
 
-Arquitetura de Software: Conheço os princípios da arquitetura de software, como o design orientado a microservices e a arquitetura em camadas.
+### 💡 Tecnologias e interesses
 
-DevOps: Utilizo ferramentas de integração contínua (CI) e entrega contínua (CD), como Jenkins e Docker.
-##
+🚀 **Em uso no dia a dia:**  
+C#, SQL Server, Oracle, Angular, Git, Jenkins  
 
+🛠️ **Em aprendizado:**  
+Angular (avançando cada vez mais!)  
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)   ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  
+🔍 **Explorando com curiosidade:**  
+RabbitMQ, Azure, Docker 
 
+---
 
+### 🧰 Tecnologias & Ferramentas
 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+---
 
+### 📫 Conecte-se comigo
 
+[![LinkedIn](https://img.shields.io/badge/-Monica%20Lima-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/monicalima/)
 
+---
 
-
-
-
-
-
-
+🌱 *“Aprendizado constante, café e curiosidade, sigo explorando.”*
